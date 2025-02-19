@@ -15,7 +15,7 @@ class JsonMapperTest_Array
     public $flArray;
 
     /**
-     * @var string[]
+     * @var array<string>
      */
     public $strArray;
 
